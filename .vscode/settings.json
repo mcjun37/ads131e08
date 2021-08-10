@@ -1,0 +1,4 @@
+{
+    "cortex-debug.armToolchainPath": "D:\\888_Workspace\\999_Tools\\gcc-arm-none-eabi-10-2020-q4-major\\bin",
+    "cortex-debug.openocdPath": "D:\\888_WORKSPACE\\999_TOOLS\\OPENOCD-20210519-0.11.0\\BIN\\OPENOCD.EXE"
+}
