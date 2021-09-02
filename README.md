@@ -9,6 +9,10 @@ Configuration
 I made a base project by using STM32CubeMx, you can modify and confirm configuration in STM32CubeMx project.  
 Anyone can use this project and modify, but must retain copyright notice.
 
+Device Driver Path
+ads131e08/Drivers/Peripheral/Src/ADS131E08.c
+ads131e08/Drivers/Peripheral/Inc/ADS131E08.h
+
 ADS131E08: https://www.ti.com/product/ADS131E08  
 STM32F767ZI: https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html  
 STM32CubeMx: https://www.st.com/en/development-tools/stm32cubemx.html  
